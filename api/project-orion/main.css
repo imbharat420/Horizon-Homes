@@ -92,7 +92,6 @@ main {
     margin-top: auto;
 }
 /**/
-    /*height: calc(94vh - 4rem);*/
 .card-group {
     height: 50vh;
     overflow: scroll;
